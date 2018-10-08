@@ -18,6 +18,7 @@
   margin: 0 auto;
   padding-top: 70px;
   padding-bottom: 70px;
+  text-align: center;
 }
 
 .galeria {
@@ -68,4 +69,4 @@ a.btn.btn-default {
 
 nav.navbar.navbar-default {
     border-radius: 0px;
-} 
+}
